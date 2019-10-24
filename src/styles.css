@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+
+body  {
+  background-image: url("https://www.elsetge.cat/myimg/f/12-120867_1440-x-iphone-xs-wallpaper-simple.jpg");
+  
+  background-size: 100%;
+}
